@@ -1,0 +1,20 @@
+C:\Users\marit\Desktop\Paolo\C#\Memory 16 carte\Memory 16 carte\bin\Debug\Memory 16 carte.exe.config
+C:\Users\marit\Desktop\Paolo\C#\Memory 16 carte\Memory 16 carte\bin\Debug\Memory 16 carte.exe
+C:\Users\marit\Desktop\Paolo\C#\Memory 16 carte\Memory 16 carte\bin\Debug\Memory 16 carte.pdb
+C:\Users\marit\Desktop\Paolo\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory 16 carte.csprojAssemblyReference.cache
+C:\Users\marit\Desktop\Paolo\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory_16_carte.Properties.Resources.resources
+C:\Users\marit\Desktop\Paolo\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory 16 carte.csproj.GenerateResource.cache
+C:\Users\marit\Desktop\Paolo\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory 16 carte.csproj.CoreCompileInputs.cache
+C:\Users\marit\Desktop\Paolo\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory 16 carte.exe
+C:\Users\marit\Desktop\Paolo\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory 16 carte.pdb
+C:\Users\marit\Desktop\Paolo\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory_16_carte.Form1.resources
+C:\Users\pocat\Desktop\C#\Memory 16 carte\Memory 16 carte\bin\Debug\Memory 16 carte.exe.config
+C:\Users\pocat\Desktop\C#\Memory 16 carte\Memory 16 carte\bin\Debug\Memory 16 carte.exe
+C:\Users\pocat\Desktop\C#\Memory 16 carte\Memory 16 carte\bin\Debug\Memory 16 carte.pdb
+C:\Users\pocat\Desktop\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory 16 carte.csprojAssemblyReference.cache
+C:\Users\pocat\Desktop\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory_16_carte.Form1.resources
+C:\Users\pocat\Desktop\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory_16_carte.Properties.Resources.resources
+C:\Users\pocat\Desktop\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory 16 carte.csproj.GenerateResource.cache
+C:\Users\pocat\Desktop\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory 16 carte.csproj.CoreCompileInputs.cache
+C:\Users\pocat\Desktop\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory 16 carte.exe
+C:\Users\pocat\Desktop\C#\Memory 16 carte\Memory 16 carte\obj\Debug\Memory 16 carte.pdb
